@@ -23,4 +23,4 @@ Thank you for visiting my blog😄 --> [kyeonkim blog](https://kyeonkim.tistory.
 
 ### leetcode
 
-![leetcode](https://leetcard.jacoblin.cool/kyeonkim?ext=heatmap)
+![leetcode](https://leetcard.jacoblin.cool/kyeonkim?ext=cn)
