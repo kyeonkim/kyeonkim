@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **kyeonkim/kyeonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Java BackEnd Developer
+
+My current goal is to become a Java backend developer.
+
+I'm working on a toy project with Spring Boot.
+
+Thank you for visiting my blog😄 --> [kyeonkim blog](https://kyeonkim.tistory.com/)
+
+### leetcode
+
+![leetcode](https://leetcard.jacoblin.cool/kyeonkim?ext=heatmap)
