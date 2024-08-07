@@ -20,7 +20,3 @@ My current goal is to become a Java backend developer.
 I'm working on a toy project with Spring Boot.
 
 Thank you for visiting my blog😄 --> [kyeonkim blog](https://velog.io/@kyeonkim/posts)
-
-### leetcode
-
-![leetcode](https://leetcard.jacoblin.cool/kyeonkim?ext=cn)
