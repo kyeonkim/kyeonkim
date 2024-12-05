@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 My current goal is to become a Java backend developer.
 
 I'm working on a toy project with Spring Boot.
-
-Thank you for visiting my blog😄 --> [kyeonkim blog](https://velog.io/@kyeonkim/posts)
