@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Java BackEnd Developer
+## BackEnd Developer
 
-My current goal is to become a Java backend developer.
+My current goal is to become a backend developer.
 
-I'm working on a toy project with Spring Boot.
+I'm working on a toy project with Spring Boot, Nestjs, Fastify.
