@@ -1,20 +1,18 @@
-<!--
-**kyeonkim/kyeonkim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hi there! I'm kyeonkim, a Software Developer
+### 📌 About Me
 
-Here are some ideas to get you started:
+🚀 Passionate about building scalable and efficient software.  
+🎯 Goal: Becoming a professional software developer.  
+💡 Currently working on **Spring Boot** & **NestJS** projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
 
-## BackEnd Developer
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 
-My current goal is to become a backend developer.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonkim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-I'm working on a toy project with Spring Boot, Nestjs.
+## 📝 Latest Blog Post
+
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyeonkim)](https://velog.io/kyeonkim)
