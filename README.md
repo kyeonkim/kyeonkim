@@ -15,4 +15,4 @@
 
 ## 📝 Latest Blog Post
 
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyeonkim)](https://velog.io/kyeonkim)
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyeonkim)](https://velog-readme-stats.vercel.app/api/redirect?name=kyeonkim)
