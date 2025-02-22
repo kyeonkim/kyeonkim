@@ -1,4 +1,4 @@
-### 👋 Hi there! I'm kyeonkim, a Software Engineer
+### 👋 Hi there! I'm kyeonkim, a Software Engineer.
 ## 📌 About Me
 
 🚀 Passionate about building scalable and efficient software.  
