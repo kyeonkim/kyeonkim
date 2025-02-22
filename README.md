@@ -1,11 +1,11 @@
-## 👋 Hi there! I'm kyeonkim, a Software Engineer
-### 📌 About Me
+### 👋 Hi there! I'm kyeonkim, a Software Engineer
+## 📌 About Me
 
 🚀 Passionate about building scalable and efficient software.  
 🎯 Goal: Becoming a professional software engineer.  
 💡 Currently working on **Spring Boot** & **NestJS** projects.  
 
-### 💻 Tech Stack
+## 💻 Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=springboot&logoColor=white)  
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)  
