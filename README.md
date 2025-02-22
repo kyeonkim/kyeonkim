@@ -1,8 +1,8 @@
-## 👋 Hi there! I'm kyeonkim, a Software Developer
+## 👋 Hi there! I'm kyeonkim, a Software Engineer
 ### 📌 About Me
 
 🚀 Passionate about building scalable and efficient software.  
-🎯 Goal: Becoming a professional software developer.  
+🎯 Goal: Becoming a professional software engineer.
 💡 Currently working on **Spring Boot** & **NestJS** projects.  
 
 ### 💻 Tech Stack
