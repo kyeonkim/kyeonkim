@@ -2,7 +2,7 @@
 ### 📌 About Me
 
 🚀 Passionate about building scalable and efficient software.  
-🎯 Goal: Becoming a professional software engineer.
+🎯 Goal: Becoming a professional software engineer.  
 💡 Currently working on **Spring Boot** & **NestJS** projects.  
 
 ### 💻 Tech Stack
