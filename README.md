@@ -1,9 +1,13 @@
-### 👋 Hi there! I'm kyeonkim, a Software Engineer.
+### 👋 Hi there! I'm Kyeonkim, a Software Engineer.
+
 ## 📌 About Me
 
-🚀 Passionate about building scalable and efficient software.  
+🚀 Passionate about building **scalable** and **efficient** software.  
 🎯 Goal: Becoming a professional software engineer.  
-💡 Currently working on **Spring Boot** & **NestJS** projects.  
+✨ Currently working on **Spring Boot** & **NestJS** projects.  
+
+📖 Writing about development & best practices:  
+ **Blog:** [kyeonkim.github.io](https://kyeonkim.github.io/)
 
 ## 💻 Tech Stack
 
@@ -13,6 +17,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kyeonkim&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 Latest Blog Post
+## 📝 Recent Coding Test Post
 
 [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=kyeonkim)](https://velog-readme-stats.vercel.app/api/redirect?name=kyeonkim)
